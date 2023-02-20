@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# Amazon Clone Hosted project link: https://vocal-parfait-2f1e27.netlify.app/
+**Amazon Clone Hosted project link:** https://vocal-parfait-2f1e27.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
